@@ -1,0 +1,34 @@
+{
+  "name": "glsl-square-frame",
+  "version": "1.0.0",
+  "description": "Given a screen size, get values between -1 and +1 for the current pixel",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "beefy example.js --open -- -t glslify"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "dependencies": {},
+  "devDependencies": {
+    "a-big-triangle": "0.0.0",
+    "beefy": "^2.1.0",
+    "browserify": "^5.10.0",
+    "gl-now": "^1.3.1",
+    "glslify": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/glsl-square-frame.git"
+  },
+  "keywords": [
+    "square",
+    "frame",
+    "glsl",
+    "shader",
+    "stackgl"
+  ],
+  "homepage": "https://github.com/hughsk/glsl-square-frame",
+  "bugs": {
+    "url": "https://github.com/hughsk/glsl-square-frame/issues"
+  }
+}
