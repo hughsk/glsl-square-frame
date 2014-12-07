@@ -1,6 +1,6 @@
 {
   "name": "glsl-square-frame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given a screen size, get values between -1 and +1 for the current pixel",
   "main": "index.js",
   "license": "MIT",
